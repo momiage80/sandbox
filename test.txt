@@ -41,3 +41,5 @@ chinese
 >>>>>>> 14f013fb45fe0c2381e9d5bc14f3805dce45e08a
 さむい
 >>>>>>> dc5e27c2c1ba085e35fa9d3b29b48c2dc0446124
+
+
