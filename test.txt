@@ -45,7 +45,7 @@ chinese
             \          __---__
                     _-       /--______
                __--( /     \ )XXXXXXXXXXX\v.
-             .-XXX(   ⓞ  🅾   )XXXXXXXXXXXXXXX-
+             .-XXX(   🅾  🅾   )XXXXXXXXXXXXXXX-
             /XXX(       U     )        XXXXXXX\
           /XXXXX(              )--_  XXXXXXXXXXX\
          /XXXXX/ (      O     )   XXXXXX   \XXXXX\
