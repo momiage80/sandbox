@@ -42,8 +42,38 @@ chinese
 さむい
 >>>>>>> dc5e27c2c1ba085e35fa9d3b29b48c2dc0446124
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 いちご
 >>>>>>> 450da6fce5560cf1438fe1674b5a356ac67a9c98
+=======
+いちご
+         \
+           \
+            \          __---__
+                    _-       /--______
+               __--( /     \ )XXXXXXXXXXX\v.
+             .-XXX(   O   O  )XXXXXXXXXXXXXXX-
+            /XXX(       U     )        XXXXXXX\
+          /XXXXX(              )--_  XXXXXXXXXXX\
+         /XXXXX/ (      O     )   XXXXXX   \XXXXX\
+         XXXXX/   /            XXXXXX   \__ \XXXXX
+         XXXXXX__/          XXXXXX         \__---->
+ ---___  XXX__/          XXXXXX      \__         /
+   \-  --__/   ___/\  XXXXXX            /  ___--/=
+    \-\    ___/    XXXXXX              '--- XXXXXX
+       \-\/XXX\ XXXXXX                      /XXXXX
+         \XXXXXXXXX   \                    /XXXXX/
+          \XXXXXX      >                 _/XXXXX/
+            \XXXXX--__/              __-- XXXX/
+             -XXXXXXXX---------------  XXXXXX-
+                \XXXXXXXXXXXXXXXXXXXXXXXXXX/
+                  ""VXXXXXXXXXXXXXXXXXXV""
+>>>>>>> c8c6f7a96748e8faf6eddab954b39de287b7276e
+
+セ
+イ
+キ
+ン
